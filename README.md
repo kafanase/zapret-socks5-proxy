@@ -10,4 +10,4 @@ The repository is a fork of zapret
 Added tunnel support.
 Tested on xtunnel, it worked slowly, so this is a prerelease of the tunnel version.
 
-port: 1080
+to set it up correctly, you need to run the file like this socks5_server.exe --ip 0.0.0.0 --port 1080
