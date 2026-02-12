@@ -2,6 +2,4 @@
 you need to use zapret
 https://github.com/Flowseal/zapret-discord-youtube/
 
-MAKE SURE TO PLACE THE EXECUTABLE FILE IN THE BIN FOLDER.
-
 The repository is a fork of zapret
