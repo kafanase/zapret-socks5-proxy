@@ -1,6 +1,6 @@
 # zapret-socks5-proxy
 *Download*
-https://github.com/kafanase/zapret-socks5-proxy/releases/download/experimental/socks5.zip
+https://github.com/kafanase/zapret-socks5-proxy/releases/download/s/socks5.zip
 ---
 you need to use zapret
 https://github.com/Flowseal/zapret-discord-youtube/
