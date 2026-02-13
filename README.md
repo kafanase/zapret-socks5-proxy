@@ -12,4 +12,4 @@ Tested on xtunnel, it worked slowly, so this is a prerelease of the tunnel versi
 
 to set it up correctly, you need to run the file like this socks5_server.exe --ip 0.0.0.0 --port 1080 --debug
 
-all parameters: --debug --port 1-65535(1080 default) --ip *.*.*.*(0.0.0.0 default) --ipv6 --workers 0-100
+```all parameters: --debug --port 1-65535(1080 default) --ip *.*.*.*(0.0.0.0 default) --ipv6 --workers 0-100```
