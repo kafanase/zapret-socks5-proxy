@@ -2,6 +2,8 @@
 *Download*
 https://github.com/kafanase/zapret-socks5-proxy/releases/download/s2/socks5.zip
 ---
+I do not know what else to add here. I'm using vless reality now, not my socks5. No one talks about the problems and maybe downloads my program.
+
 you need to use zapret
 https://github.com/Flowseal/zapret-discord-youtube/
 
