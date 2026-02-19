@@ -1,5 +1,6 @@
 # zapret-socks5-proxy 
 **Project support has been discontinued**
+
 *Download*
 https://github.com/kafanase/zapret-socks5-proxy/releases/download/s2/socks5.zip
 ---
